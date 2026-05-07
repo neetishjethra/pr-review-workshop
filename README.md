@@ -26,5 +26,5 @@ Does not use any non-standard packages.
 
 ```
 python3 stats.py  1 2 3 4 5 
-{'count': 5, 'sum': 15, 'mean': 3.0}
+{'count': 4, 'sum': 10, 'mean': 2.5}
 ```
